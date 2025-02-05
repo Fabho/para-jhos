@@ -1,0 +1,12 @@
+{
+  "name": "para-jhos",
+  "version": "1.0.0",
+  "description": "Jhos static website",
+  "license": "ISC",
+  "author": "Fabian Calsina",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
